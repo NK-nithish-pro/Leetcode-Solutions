@@ -1,1 +1,2 @@
-# Leetcode-Java
+# Leetcode-Solution
+#my journey in leetcode
