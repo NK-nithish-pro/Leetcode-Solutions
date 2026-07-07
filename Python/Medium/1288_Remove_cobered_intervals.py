@@ -1,9 +1,9 @@
 
 class Solution:
     def removeCoveredIntervals(self, intervals: List[List[int]]) -> int:
-        
-        copy=sorted(intervals)
         intervals.sort()
+        copy=list(intervals)
+        
 
 
         for i in intervals:
